@@ -1,3 +1,6 @@
 [submodule "Assets/Scripts/Zyganadel/Core"]
 	path = Assets/Scripts/Zyganadel/Core
 	url = https://github.com/Zyganadel/patchnotes-core.git
+[submodule "Assets/Scripts/Zyganadel/Gameplay"]
+	path = Assets/Scripts/Zyganadel/Gameplay
+	url = https://github.com/Zyganadel/patchnotes-gameplay.git
